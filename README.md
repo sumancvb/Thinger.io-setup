@@ -3,7 +3,7 @@ Thinger.io server setup script
 
 Clone:
 
-    wget https://github.com/sumancvb/Thinger.io-setup.git
+    git clone https://github.com/sumancvb/Thinger.io-setup.git
 
 Enter directory:
     
