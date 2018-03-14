@@ -1,5 +1,9 @@
 # Thinger.io ubuntu 16.04 server setup
-Thinger.io server setup scripth
+Thinger.io server setup script
+
+Clone:
+
+    wget https://github.com/sumancvb/Thinger.io-setup.git
 
 Enter directory:
     
