@@ -1,4 +1,4 @@
-# Thinger.io ubuntu 16.04 server setup
+# Thinger.io IoT server setup for Ubuntu 16.04
 Thinger.io server setup script
 
 Clone:
@@ -16,3 +16,5 @@ make script file executble
 Then run the following command:
     
     sudo ./thinger.sh
+
+Thanks to https://thinger.io/
